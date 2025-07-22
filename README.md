@@ -1,0 +1,2 @@
+# afblog
+Affiliate blog posts
